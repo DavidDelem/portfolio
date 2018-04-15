@@ -1,0 +1,575 @@
+{
+  "projets": [
+    {
+      "id": "1",
+      "titre": {
+          "fr": "Agent joueur d'echec",
+          "en": "Chess player agent"
+      },
+      "mainphoto": "img/projets/chess.jpg",
+      "description": {
+          "fr": "Agent intelligent jouant aux echecs créé dans le cadre du cours d'intelligence artificielle à l'UQAC.",
+          "en": "Intelligent agent playing chess created during the artificial intelligence course at UQAC."
+      },
+      "date": "2017",
+      "duration": {
+          "fr": "2 semaines",
+          "en": "2 weeks"
+      },
+      "team": {
+          "fr": "Binôme",
+          "en": "Pair"
+      },
+      "labels": [
+           {
+                "fr": "C#",
+                "en": "C#"
+           },
+           {
+                "fr": "Intelligence artificielle",
+                "en": "Artificial intelligence"
+           }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/chess/img1.jpg",
+              "texte": {
+                  "fr": "L'agent intelligent joue aux echecs face à un autre agent en se connectant à une plateforme centrale à laquelle il envoie ses instructions.",
+                  "en": "The intelligent agent plays chess against another by connecting to a central platform to which he sends his moves."
+              }
+          },
+          {
+              "url": "./img/projets/chess/img2.jpg",
+              "texte": {
+                  "fr": "Nous utilisons des heuristiques pour déterminer un coup maximisant la performance de l'agent.",
+                  "en": "We use heuristics to determine a move that maximizes agent performance."
+              }
+          },
+          {
+              "url": "./img/projets/chess/img3.jpg",
+              "texte": {
+                  "fr": "L'agent à un temps très limité pour prendre une décision et perd la partie si il dépasse le temps limite, il est donc essentiel de créer un algorithme r.",
+                  "en": "The agent at a very limited time to make a decision and loses the game if he exceeds the time limit."
+              }
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "titre": {
+          "fr": "Robot aspirateur virtuel",
+          "en": "Virtual robot vacuum"
+      },
+      "mainphoto": "img/projets/aspirateur.png",
+      "description": {
+          "fr": "Agent intelligent basé sur le modèle BDI qui nettoie un manoir virtuel de façon optimisée. Il utilise nottament de l'exploration informée et possède un module d'apprentissage lui permettant d'améliorer sa performance au fil du temps.",
+          "en": "Intelligent agent based on the BDI model who cleans a virtual mansion in an optimized way. It uses informed exploration and has a learning module to improve its performance over time."
+      },
+      "date": "2017",
+      "duration": {
+          "fr": "1 mois",
+          "en": "1 month"
+      },
+      "team": {
+          "fr": "Binôme",
+          "en": "Pair"
+      },
+      "labels": [
+           {
+                "fr": "Java",
+                "en": "Java"
+           },
+           {
+                "fr": "Intelligence artificielle",
+                "en": "Artificial intelligence"
+           }
+    ],
+      "photos": [
+          {
+              "url": "img/projets/aspirateur/img1.png",
+              "texte": {
+                  "fr": "L'agent intelligent nettoie un manoir qui se salit en temps réel. Il peut également ramasser des bijoux pour gagner plus de points.",
+                  "en": "The intelligent agent cleans a mansion that gets dirty in real time. He can also pick up jewels to earn more points."
+              }
+          },
+          {
+              "url": "img/projets/aspirateur/img2.png",
+              "texte": {
+                  "fr": "Il est doté d'un état mental BDI et utilise l'exploration informée pour optimiser son parcours",
+                  "en": "He has a BDI mental state and uses informed exploration to optimize his work"
+              }
+          },
+          {
+              "url": "img/projets/aspirateur/img3.png",
+              "texte": {
+                  "fr": "Il dispose d'une mesure de la performance et s'améliore au fil du temps.",
+                  "en": "It has a measure of performance and improves himself over time."
+              }
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "titre": {
+          "fr": "TravelExpress",
+          "en": "TravelExpress"
+      },
+      "mainphoto": "img/projets/travelexpress.jpg",
+      "description": {
+          "fr": "Site de covoiturage réalisé dans le cadre du cours de Systèmes Répartis. Nous avons choisi d'utiliser Ruby on Rails afin de découvrir ce framework utilisé par de nombreuses entreprises.",
+          "en": "Carpool website made during the distributed systems course at UQAC. We choose to use Ruby On Rails to discover this framework used by many companies."
+      },
+      "date": "2017",
+      "duration": {
+          "fr": "1 mois",
+          "en": "1 month"
+      },
+      "team": {
+          "fr": "Binôme",
+          "en": "Pair"
+      },
+      "labels": [
+           {
+                "fr": "Ruby On Rails",
+                "en": "Ruby On Rails"
+           },
+           {
+                "fr": "REST",
+                "en": "REST"
+           },
+           {
+                "fr": "MySQL",
+                "en": "MySQL"
+           },
+           {
+                "fr": "Systèmes répartis",
+                "en": "Distributed Systems"
+           }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/travelexpress/img1.png",
+              "texte": {
+                  "fr": "TravelExpress est un site de covoiturage similaire à AmigoExpress au Québec. Le design est épuré, à la façon du site de Airbnb.",
+                  "en": "TravelExpress is a carpool website similar to AmigoExpress in Quebec. The design is minimal, like the Airbnb site."
+              }
+          },
+          {
+              "url": "./img/projets/travelexpress/img2.png",
+              "texte": {
+                  "fr": "L'utilisateur dispose d'un profil personnel, sur lequel il peut se présenter et ses notes sont affichées.",
+                  "en": "The user has a personal profile, on which he can appear and his notations are displayed."
+              }
+          },
+          {
+              "url": "./img/projets/travelexpress/img4.png",
+              "texte": {
+                  "fr": "L'on peut rechercher des covoiturages et y réserver des places si disponibles.",
+                  "en": "You can search for carpools and reserve seats if available."
+              }
+          },
+          {
+              "url": "./img/projets/travelexpress/img3.png",
+              "texte": {
+                  "fr": "L'utilisateur peut consulter et gérer les covoiturages qu'il a créé ainsi que ceux auquels il s'est inscrit.",
+                  "en": "The user can consult and manage the carpools he has created and those he has registered as a passenger."
+              }
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "titre": {
+          "fr": "Flow",
+          "en": "Flow"
+      },
+      "mainphoto": "img/projets/flow.png",
+      "description": {
+          "fr": "Flow est un système d’analyse de la conduite en temps réel pouvant être mis en place aisément sur tout type de véhicule. J'ai rejoint ce projet lors du Startup Weekend Brest 2016, un événement durant lequel des équipes ont 54 heures pour créer une Startup à partir d’une simple idée.",
+          "en": "Flow is a Real-time driving analysis system that can be easily installed on any type of vehicle. I joined this project during the 2016 edition of the Startup Weekend Brest, an event during which teams have 54 hours to create a Startup from a simple idea."
+      },
+      "date": "2016",
+      "duration": {
+          "fr": "54 heures",
+          "en": "54 hours"
+      },
+      "team": {
+          "fr": "Équipe",
+          "en": "Team"
+      },
+      "labels": [
+           {
+                "fr": "IoT",
+                "en": "IoT"
+           },
+           {
+                "fr": "Startup Weekend Brest",
+                "en": "Startup Weekend Brest"
+           }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/flow/img1.jpg",
+              "texte": {
+                  "fr": "Tout les participants du Startup Weekend Brest 2016 ! Nous étions une équipe de 5 personnes à travailler sur le projet Flow pendant le weekend.",
+                  "en": "All the participants of the Startup Weekend Brest 2016! We were a team of 5 people working on the Flow project during the weekend."
+              }
+          },
+          {
+              "url": "./img/projets/flow/img2.png",
+              "texte": {
+                  "fr": "Notre logo que j'ai créé.",
+                  "en": "Our logo that I created."
+              }
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "titre": {
+          "fr": "LIPS",
+          "en": "LIPS"
+      },
+      "mainphoto": "img/projets/lips.jpg",
+      "description": {
+          "fr": "Environnement pour tablette tactile ergonomique, stimulant et adaptée aux seniors en situation d'isolement pouvant être paramétré à distance par leurs proches. J'ai rejoint ce projet durant l'édition 2015 du Startup Weekend Brest et nous avons remporté le prix de l'innovation sociale lors de la finale régionale des Entrepreneuriales, une compétition française d'entreprenariat étudiant.",
+          "en": "Tablets environment adapted to the use of isolated elderly people, who can be configured remotely by relatives. I joined this project during the 2015 edition of the Startup Weekend Brest, and we win the Social Innovation Award at the Entrepreneuriales state finale, a french a student entrepreneurship competition."
+      },
+      "date": "2015",
+      "duration": {
+          "fr": "6 mois",
+          "en": "6 months"
+      },
+      "team": {
+          "fr": "Équipe",
+          "en": "Team"
+      },
+      "labels": [
+          {
+                "fr": "Entrepreneuriales",
+                "en": "Entrepreneuriales"
+          },
+          {
+                "fr": "Startup Weekend Brest",
+                "en": "Startup Weekend Brest"
+          }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/lips/lips1.jpg",
+              "texte": {
+                  "fr": "Notre équipe était constituée d'une dizaine d'étudiants issue d'écoles d'ingénieur et de commerce variées. Nous avons remporté le prix de l'innovation sociale lors de la finale régionale des Entrepreneuriales.",
+                  "en": "We where a team of a dozen of students from various engineering and business schools. We won the Social Innovation Award at the Entrepreneuriales Regional Finals."
+              }
+          },
+          {
+              "url": "./img/projets/lips/lips2.jpg",
+              "texte": {
+                  "fr": "Nous avons également participé au Startup Weekend Brest 2015 avec ce projet.",
+                  "en": "We also participated in the Startup Weekend Brest 2015 with this project."
+              }
+          },
+          {
+              "url": "./img/projets/lips/lips3.jpg",
+              "texte": {
+                  "fr": "LIPS avait pour objectif de réduire l'isolation des personnes seules en proposant une interface adaptée et des fonctionnalités sociales sur tablette tactile.",
+                  "en": "LIPS aimed to reduce the isolation of single people by providing a suitable interface and social features on tablets."
+              }
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "titre": {
+          "fr": "Sea Test Base Biodata",
+          "en": "Sea Test Base Biodata"
+      },
+      "mainphoto": "img/projets/seatestbase.jpg",
+      "description": {
+          "fr": "Outil de gestion des demandes d'accès à Sea Test Base, une plateforme d'essai en mer située dans une zone militaire dont l'accès est soumis à autorisation par les autorités françaises.",
+          "en": "Access request management system for Sea Test Base, an offshore test base located in a military zone whose access is subject to authorization by French authorities."
+      },
+      "date": "2017",
+      "duration": {
+          "fr": "3 mois",
+          "en": "3 months"
+      },
+      "team": {
+          "fr": "Binôme",
+          "en": "Pair"
+      },
+      "labels": [
+          {
+                "fr": "Node.js",
+                "en": "Node.js"
+          },
+          {
+                "fr": "Polymer",
+                "en": "Polymer"
+          },
+          {
+                "fr": "REST",
+                "en": "REST"
+          }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/seatestbase/capture8.png",
+              "texte": {
+                  "fr": "Sea Test Base est un site d'essais en mer situé dans une zone militaire française.",
+                  "en": "Sea Test Base is an offshore test area located in a French military zone."
+              }
+          },
+          {
+              "url": "./img/projets/seatestbase/capture9.png",
+              "texte": {
+                  "fr": "Nous avons étudié le besoin, rencontré les utilisateurs, conçu et développé la solution.",
+                  "en": "We studied the need, met the users, designed and developed the solution."
+              }
+          },
+          {
+              "url": "./img/projets/seatestbase/capture11.png",
+              "texte": {
+                  "fr": "Le site dispose d'une interface agréable et à été réalisée avec des technologies javascript modernes.",
+                  "en": "The site has a nice interface and has been realized with modern javascript technologies."
+              }
+          },
+          {
+              "url": "./img/projets/seatestbase/c2.png",
+              "texte": {
+                  "fr": "Le site permet aux administrateurs de gérer tout le processus de demande d'accès via une interface dédié.",
+                  "en": "The website allows administrators to fully manage access requests with a dedicated interface."
+              }
+          },
+          {
+              "url": "./img/projets/seatestbase/c3.png",
+              "texte": {
+                  "fr": "Il était difficile pour les administrateurs de gérer les demande d'accés à Sea Test Base qui nécessitent des autorisations de l'état.",
+                  "en": ""
+              }
+          },
+          {
+              "url": "./img/projets/seatestbase/c4.png",
+              "texte": {
+                  "fr": "",
+                  "en": ""
+              }
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "titre": {
+          "fr": "Suivi de cible",
+          "en": "Target tracking"
+      },
+      "mainphoto": "img/projets/tracking.jpg",
+      "description": {
+          "fr": "Algorithme de suivi en temps réel d'une cible dans une vidéo avec élimination des erreurs de détecion, réalisé avc OpenCV, librairie C++ de traitement d'image.",
+          "en": "Algorithm for real-time tracking of a target in a video with elimination of false positives, made with OpenCV, a C++ image processing library."
+      },
+      "date": "2016",
+      "duration": {
+          "fr": "2 heures",
+          "en": "2 hours"
+      },
+      "team": {
+          "fr": "Seul",
+          "en": "Alone"
+      },
+      "labels": [
+          {
+                "fr": "C++",
+                "en": "C++"
+          },
+          {
+                "fr": "OpenCV",
+                "en": "OpenCV"
+          },
+          {
+                "fr": "Traitement d'image",
+                "en": "Image processing"
+          }
+      ],
+      "photos": [
+          {
+              "url": "img/projets/tracking/img1.png",
+              "texte": {
+                  "fr": "L'image est analysée en temps réel pour détecter les contours de la cible",
+                  "en": "The image is analyzed in real time to detect the contours of the target"
+              }
+          },
+          {
+              "url": "img/projets/tracking/img1.png",
+              "texte": {
+                  "fr": "Les faux positifs sont identifiés et éliminés",
+                  "en": "False positives are identified and eliminated"
+              }
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "titre": {
+          "fr": "Modern Paper",
+          "en": "Modern Paper"
+      },
+      "mainphoto": "img/projets/modernpaper.jpg",
+      "description": {
+          "fr": "Modern Paper était un site d'actualité français géré par des étudiants en école de journalisme. Pendant 3 ans, j'ai géré bénévolement l'infrastructure du site, les développements et le design. J'ai également réalisé des illustration d'articles pour les événements spéciaux comme les élections présidentielles ou les Jeux Olympiques.",
+          "en": "Modern Paper was a French news website run by journalism school students. For 3 years, I managed the website infrastructure, developments and design. I also produced illustration for special events such as presidential elections or Olympic Games."
+      },
+      "date": "2014",
+      "duration": {
+          "fr": "3 ans",
+          "en": "3 years"
+      },
+      "team": {
+          "fr": "Seul",
+          "en": "Alone"
+      },
+      "labels": [
+          {
+                "fr": "Wordpress",
+                "en": "Wordpress"
+          },
+          {
+                "fr": "PHP",
+                "en": "PHP"
+          },
+          {
+                "fr": "MySQL",
+                "en": "MySQL"
+          },
+          {
+                "fr": "Design",
+                "en": "Design"
+          }
+      ],
+      "photos": [
+          {
+              "url": "./img/projets/modernpaper/v2.jpg",
+              "texte": {
+                  "fr": "En plus de gérer l'infrastructure et les développements, je réalisais des illustrations d'articles.",
+                  "en": "In addition to the management of the infrastructure and developments, I realized illustrations for articles."
+              }
+          },
+          {
+              "url": "./img/projets/modernpaper/macron-president.jpg",
+              "texte": {
+                  "fr": "Illustration réalisée pour l'article annonçant le gagnant de l'élection présidentielle française.",
+                  "en": "Illustration created for the article announcing the winner of the French presidential election."
+              }
+          },
+          {
+              "url": "./img/projets/modernpaper/macron-lepen.jpg",
+              "texte": {
+                  "fr": "En 2018, Modern Paper a été fermé par ses créateurs après 3 ans d'existance.",
+                  "en": "In 2018, Modern Paper was closed by its creators after 3 years of existence."
+              }
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "titre": {
+          "fr": "Design Touch",
+          "en": "Design Touch"
+      },
+      "mainphoto": "img/projets/dt.jpg",
+      "description": {
+          "fr": "J'ai créé et administré pendant 3 ans un blog de tutoriels pour Photofiltre et Photoshop destiné aux débutants, ayant connu un grand succès avec plus de deux millions de visites.",
+          "en": "I created and managed for 3 years a tutorial blog for Photofiltre and Photoshop for beginners, which has been a great success with more than two million visits."
+      },
+      "date": "2009",
+      "duration": {
+          "fr": "3 ans",
+          "en": "3 years"
+      },
+      "team": {
+          "fr": "Seul",
+          "en": "Alone"
+      },
+      "labels": [
+          {
+                "fr": "Graphisme",
+                "en": "Graphisme"
+          },
+          {
+                "fr": "Blog",
+                "en": "Blog"
+          }
+      ],
+      "photos": [
+          {
+              "url": "",
+              "texte": {
+                  "fr": "J'ai créé Design-Touch en 2009 pour aider les débutants à faire de superbes montages photos aisément avec Photofiltre et Photoshop. Les tutoriels étaient détaillés avec beaucoup d'images pour permettre de bien comprendre comment faire, même sans jamais avoir utilisé le logiciel.",
+                  "en": "I created Design-Touch in 2009 to help beginners make beautiful photo montages easily with Photofiltre and Photoshop. Tutorials were detailed with lots of images to help understand how to do, even without ever having used the software."
+              }
+          },
+          {
+              "url": "",
+              "texte": {
+                  "fr": "Après quelques mois d'existence, Design-Touch a été mis en avant par la plateforme de blog ainsi que dans un magazine édité par une grande radio Française, Skyrock. Le nombre de visiteurs a alors rapidement augmenté pour atteindre 30.000 par jour.",
+                  "en": "After a few months of existence, Design-Touch has been highlighted by the blog platform and in a magazine published by a one of the most famous French radio, Skyrock. The number of visitors increased rapidly, reaching 30,000 per day."
+              }
+          },
+          {
+              "url": "",
+              "texte": {
+                  "fr": "Grâce à l'ajout régulier de nouveaux tutoriels et à une forte présence sur les réseaux sociaux, les visiteurs restés fidèles au blog sur le long terme avec plus de deux millions de visites en 3 ans ! C'est incroyable.",
+                  "en": "Thanks to the regular addition of new tutorials and a strong presence on social networks, the visitors remained faithful to the blog over the time, with more than two million visits in 3 years ! It's incredible."
+              }
+          },
+          {
+              "url": "",
+              "texte": {
+                  "fr": "Après avoir réalisé environ 200 tutoriels, j'ai décidé de fermer Design-Touch en 2012 afin de me consacrer à d'autres projets. J'ai laissé tous le contenu en ligne pour que les milliers de personnes qui le consultent toujours puissent encore en profiter.",
+                  "en": "After a total of 200 tutorials, I decided to close Design-Touch in 2012 to focus on other projects. I left all the content online so that the thousands of people who consult it can still enjoy it."
+              }
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "titre": {
+          "fr": "Tri dans les bases de données",
+          "en": "Sorting in database systems"
+      },
+      "mainphoto": "img/projets/db.png",
+      "description": {
+          "fr": "Étude de l'implémentation du tri dans les bases de données. Analyse des algorithmes et structures de données utilisées en terme de complexité spatiale et temporelle. Restitution sous forme d'un rapport et d'une présentation orale durant le cours de structures de données avancées à l'UQAC.",
+          "en": "Study of the implementation of sorting in database systems. Analysis of algorithms and data structures used in terms of spatial and temporal complexity. Restitution in the form of a report and an oral presentation during the course of advanced data structures at UQAC."
+      },
+      "date": "2009",
+      "duration": {
+          "fr": "2 mois",
+          "en": "2 months"
+      },
+      "team": {
+          "fr": "Seul",
+          "en": "Alone"
+      },
+      "labels": [
+          {
+                "fr": "Structures de données avancées",
+                "en": "Advanced data structures"
+          },
+          {
+                "fr": "Bases de données",
+                "en": "Database systems"
+          }
+      ],
+      "photos": [
+          {
+              "url": "",
+              "texte": {
+                  "fr": "A venir",
+                  "en": "Upcoming"
+              }
+          }
+      ]
+    }
+  ]
+}

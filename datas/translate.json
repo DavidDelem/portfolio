@@ -1,0 +1,312 @@
+{ 
+    "traductions": {
+        "he-h2": {
+          "fr": "Étudiant ingénieur en informatique en double diplôme au Canada",
+          "en": "Computer Science Engineering Student in dual degree in Canada"
+        },
+        "he-h3": {
+          "fr": "Je recherche un stage de fin d'études de 6 mois débutant entre juillet et septembre 2018",
+          "en": "Looking for a 6 month end-of-studies internship starting between July and September 2018"
+        },
+        "in-title": {
+          "fr": "Centres d'intérêt",
+          "en": "Interests"
+        },
+        "in-trips": {
+          "fr": "Voyages",
+          "en": "Travels"
+        },
+        "in-read": {
+          "fr": "Lecture",
+          "en": "Reading"
+        },
+        "in-tv": {
+          "fr": "Séries TV",
+          "en": "TV series"
+        },
+        "in-ski": {
+          "fr": "Ski",
+          "en": "Skiing"
+        },
+        "sc-title": {
+          "fr": "Scolarité et diplômes",
+          "en": "Education and diplomas"
+        },
+        "sc-up": {
+          "fr": "Prochainement",
+          "en": "Upcoming"
+        },
+        "sc-bac": {
+          "fr": "Diplôme d’études<br/>collégiales",
+          "en": "High school<br/>degree"
+        },
+        "sc-uqac": {
+          "fr": "<span class=\"school\">UQAC - CANADA</span><br/>Maîtrise en informatique",
+          "en": "<span class=\"school\">UQAC - CANADA</span><br/>MSc in Computer Science"
+        },
+        "sc-isen": {
+          "fr": "<span class=\"school\">ISEN École d'ingénieurs - FRANCE</span><br/>Cycle Informatique et Réseaux",
+          "en": "<span class=\"school\">ISEN Engineering school - FRANCE</span><br/>Major in Computer Science"
+        },
+        "sc-more": {
+          "fr": "Voir le détails des cours suivis",
+          "en": "View details of followed courses"
+        },
+        "sc-msc": {
+          "fr": "Maîtrise en<br/>informatique",
+          "en": "Msc in<br/>Computer Science"
+        },
+        "sc-inge": {
+          "fr": "Diplôme<br/>d'ingénieur",
+          "en": "Engineer's<br/>degree"
+        },
+        "sc-modal-uqac-title": {
+          "fr": "<span>UQAC</span> au Canada",
+          "en": "<span>UQAC</span> in Canada"
+        },
+        "sc-modal-uqac-sub": {
+          "fr": "Maîtrise en informatique",
+          "en": "Msc in Computer Science"
+        },
+        "sc-modal-uqac-desc": {
+          "fr": "Dernière année d'études au Canada en double diplôme en informatique. Obtention du diplôme à l'issue du stage.",
+          "en": "Final year of studies in Canada for a dual degree in Computer Science. Graduation after the internship."
+        },
+        "sc-modal-isen-title": {
+          "fr": "<span>ISEN</span> en France",
+          "en": "<span>ISEN</span> in France"
+        },
+        "sc-modal-isen-sub": {
+          "fr": "Diplôme  d'ingénieur",
+          "en": "Engineer's degree"
+        },
+        "sc-modal-isen-tc": {
+          "fr": "Tronc commun<br>ingénieur",
+          "en": "Engineering<br>core curriculum"
+        },
+        "sc-modal-isen-cir": {
+          "fr": "Cycle informatique<br>et réseaux",
+          "en": "Major in<br>Computer Science"
+        },
+        "sc-modal-isen-desc1": {
+          "fr": "Formation d'ingénieur avec spécialisation dans l'informatique et les réseaux. Obtention du diplôme à l'issue du stage.",
+          "en": "General engineering studies with major in Computer Science. Graduation after the internship."
+        },
+        "sc-modal-isen-desc2": {
+          "fr": "<br/>L'ISEN est une Grande École française habilitée par la CTI à délivrer le titre d'ingénieur.",
+          "en": "<br/>ISEN is a French engineering school accredited to deliver the Diplôme d'ingénieur, equivalent to an Engineer's degree."
+        },
+        "sc-modal-cpt1": {
+          "fr": "Bases de données réparties <span>8INF803</span>",
+          "en": "Distributed databases <span>8INF803</span>"
+        },
+        "sc-modal-cpt2": {
+          "fr": "Forage de données <span>8INF954</span>",
+          "en": "Data mining <span>8INF954</span>"
+        },
+        "sc-modal-cpt3": {
+          "fr": "Gestion de projets informatiques <span>8INF847</span>",
+          "en": "Project management <span>8INF847</span>"
+        },
+        "sc-modal-cpt4": {
+          "fr": "Génie logiciel <span>8INF851</span>",
+          "en": "Software engineering <span>8INF851</span>"
+        },
+        "sc-modal-cpt5": {
+          "fr": "Intelligence artificielle <span>8INF846</span>",
+          "en": "Artificial intelligence <span>8INF846</span>"
+        },
+        "sc-modal-cpt6": {
+          "fr": "Programmation objet avancée <span>8INF957</span>",
+          "en": "Advanced object-oriented programming <span>8INF957</span>"
+        },
+        "sc-modal-cpt7": {
+          "fr": "Structures de données avancées <span>8INF840</span>",
+          "en": "Advanced data structures <span>8INF840</span>"
+        },
+        "sc-modal-cpt8": {
+          "fr": "Systèmes répartis <span>8INF843</span>",
+          "en": "Distributed systems <span>8INF843</span>"
+        },
+        "sc-modal-cpt9": {
+          "fr": "Mathématiques",
+          "en": "Mathematics"
+        },
+        "sc-modal-cpt10": {
+          "fr": "Statistiques",
+          "en": "Statistics"
+        },
+        "sc-modal-cpt11": {
+          "fr": "Probabilités",
+          "en": "Probabilities"
+        },
+        "sc-modal-cpt12": {
+          "fr": "Électronique",
+          "en": "Electronic"
+        },
+        "sc-modal-cpt13": {
+          "fr": "Théorie de la décision",
+          "en": "Theory of decision"
+        },
+        "sc-modal-cpt14": {
+          "fr": "Codage canal",
+          "en": "Channel coding"
+        },
+        "sc-modal-cpt15": {
+          "fr": "Traitement du signal",
+          "en": "Signal processing"
+        },
+        "sc-modal-cpt16": {
+          "fr": "Gestion de projet",
+          "en": "Project management"
+        },
+        "sc-modal-cpt17": {
+          "fr": "C, C++, Java, Shell",
+          "en": "C, C++, Java, Shell"
+        },
+        "sc-modal-cpt18": {
+          "fr": "Bases De Données",
+          "en": "Database systems"
+        },
+        "sc-modal-cpt19": {
+          "fr": "Administration Linux",
+          "en": "Administration Linux"
+        },
+        "sc-modal-cpt20": {
+          "fr": "Développement web",
+          "en": "Web development"
+        },
+        "sc-modal-cpt21": {
+          "fr": "Assembleur",
+          "en": "Assembly"
+        },
+        "sc-modal-cpt22": {
+          "fr": "Design Patterns, UML",
+          "en": "Design Patterns, UML"
+        },
+        "sc-modal-cpt23": {
+          "fr": "Sécurité informatique",
+          "en": "IT security"
+        },
+        "sc-modal-cpt24": {
+          "fr": "CISCO CCNA",
+          "en": "CISCO CCNA"
+        },
+        "wo-title": {
+          "fr": "Expériences profesionnelles",
+          "en": "Work experience"
+        },
+        "wo-a-dur": {
+          "fr": "12 mois",
+          "en": "12 months"
+        },
+        "wo-z-dur": {
+          "fr": "2 mois",
+          "en": "2 months"
+        },
+        "wo-m-dur": {
+          "fr": "1 mois",
+          "en": "1 month"
+        },
+        "wo-a-type": {
+          "fr": "Alternance",
+          "en": "Intern"
+        },
+        "wo-z-type": {
+          "fr": "Stage",
+          "en": "Intern"
+        },
+        "wo-m-type": {
+          "fr": "Stage",
+          "en": "Intern"
+        },
+        "wo-a-title": {
+          "fr": "<span>Développeur</span> au Crédit Mutuel Arkéa",
+          "en": "<span>Developer</span> at Crédit Mutuel Arkéa"
+        },
+        "wo-z-title": {
+          "fr": "<span>Développeur web</span> chez ZIP",
+          "en": "<span>Web developer</span> at ZIP"
+        },
+        "wo-m-title": {
+          "fr": "<span>Formateur à l'informatique</span> à la maison d'arrêt de Brest",
+          "en": "<span>IT Trainer</span> at Brest Penitentiary"
+        },
+        "wo-a-sub": {
+          "fr": "Service Banque à Distance",
+          "en": "Remote Banking Department"
+        },
+        "wo-z-sub": {
+          "fr": "Agence Digitale",
+          "en": "Digital Agencie"
+        },
+        "wo-m-sub": {
+          "fr": "Centre de détention pour peines jusqu'à deux ans",
+          "en": "Detention center for sentences up to two years"
+        },
+        "wo-a-desc": {
+          "fr": "Avec mon équipe agile du service Banque à Distance, j'ai développé des solutions à usage interne et à destination des clients finaux: refonte d'une applications utilisée dans les Centres de Relation Client, création d'un outil de monitoring, développement de composants du nouveau site et de la nouvelle application mobile hybride de la banque, évolution de services existants sur le serveur centralisant la distribution des mails, SMS et notifications push aux clients.",
+          "en": "With my agile feature team of the Remote Banking department, I have developed solutions for end customers and for internal use: creation of a monitoring tool, redesign of an application used in Customer Relations Centers, development of parts of the new website and the new hybrid mobile application of the bank, evolution of the server centralizing the distribution of mails, push notifications and SMS to customers."
+        },
+        "wo-z-desc": {
+          "fr": "Mon rôle était de développer des composants back-office pour la gestion des produits et des clients de sites e-commerce créés avec le CMS Prestashop. J'ai également réalisé l'intégration d'un site e-commerce à partir de maquettes et résolu divers incidents détectés sur les sites en production.",
+          "en": "My role was to develop back-office components products and customers management of e-commerce websites made with the Prestashop CMS. I also realized the integration of an e-commerce website and solved various incidents detected on production websites."
+        },
+        "wo-m-desc": {
+          "fr": "J'ai supervisé deux groupes de détenus. Des connaissances de base de l'utilisation d'un ordinateur à l'utilisation avancée de logiciels de traitement de texte et de tableur, mon rôle était de proposer une formation adaptée aux besoins et au niveau de chaque détenu afin de favoriser leur réinsertion au sein de la société à l’issue de leur peine.",
+          "en": "I supervised two groups of detainees. From the basic knowledge of computer to the advanced utilisation of word processing and spreadsheet softwares, my role was to adapt the training to the needs and the level of each inmate in order to facilitate their reintegration into society at the end of their sentences."
+        },
+        "co-title": {
+          "fr": "Compétences",
+          "en": "Skills"
+        },
+        "co-subtitle-bdd": {
+          "fr": "Bases de données",
+          "en": "Databases systems"
+        },
+        "co-subtitle-com": {
+          "fr": "Communications",
+          "en": "Communications"
+        },
+        "co-subtitle-prog": {
+          "fr": "Programmation",
+          "en": "Programming"
+        },
+        "co-subtitle-manag": {
+          "fr": "Gestion de projet",
+          "en": "Project management"
+        },
+        "co-bdd": {
+          "fr": "Conception de bases de données",
+          "en": "Database design"
+        },
+        "co-ass": {
+          "fr": "Bases d'asembleur",
+          "en": "Asembly bases"
+        },
+        "co-evt": {
+          "fr": "Architectures orientées événements",
+          "en": "Event-oriented architectures"
+        },
+        "co-test": {
+          "fr": "Automatisation des tests",
+          "en": "Test automation"
+        },
+        "co-aspc": {
+          "fr": "Programmation orientée aspect",
+          "en": "Aspect-oriented programming"
+        },
+        "po-title": {
+          "fr": "Projets personnels et scolaires",
+          "en": "Personal and scholar projects"
+        },
+        "fo-thanks": {
+          "fr": "Merci pour votre visite ! N'hésitez pas à me contacter pour en savoir plus",
+          "en": "Thanks for your visit ! Contact me for more informations"
+        },
+        "fo-stage": {
+          "fr": "Je recherche un stage de fin d'études de 6 mois débutant entre juillet et septembre 2018",
+          "en": "Looking for a 6 month end-of-studies internship starting between July and September 2018"
+        }
+    }
+}
